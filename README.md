@@ -22,7 +22,7 @@ A focused, production-ready product REST API built with **Node.js**, **Express**
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/product-api.git
+git clone https://github.com/Glxtchman/ecommerce-product-api.git
 cd product-api
 npm install
 ```
